@@ -1,4 +1,4 @@
-### Olá! Eu sou a NewJully      
+  
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=header&text=Welcome!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
