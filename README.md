@@ -46,7 +46,7 @@
    width="60"
    src="https://user-images.githubusercontent.com/94869300/167043683-c033e826-a8e1-4710-9356-d11224793ad4.png"/>
 
-  ## lifelong learning
+  ##
 
   
 <div align="center">
